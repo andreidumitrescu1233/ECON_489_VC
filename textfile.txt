@@ -1,2 +1,3 @@
 "Hello world!"
 "This is the second line" test 2
+"Adding the third line associated with the branch"
